@@ -1,1 +1,5 @@
-# matplotlib-challenge
+This repository encompasses my submission for Assignment 5 in the Columbia Data Analytics Bootcamp. The assignment required a comprehensive analysis of two datasets using Pandas and Jupyter Notebooks.
+
+I began by importing mouse metadata and study results data from two distinct CSV files into Jupyter and subsequently merged them. Pandas was then utilized to create DataFrames and matplotlib was used for the bulk of the analysis. The mouse metadata contained general information about the mice used in the experiment, while the study results contained the data gathered over the duration of the experiment for each mouse.
+
+The primary objective was to assess the efficacy of different drugs in treating squamous cell carcinoma (SCC) in mice. This involved tracking the progression of tumor volume within mice treated with ten different drug regimens. I performed statistical analyses, and the most promising treatments underwent further scrutiny before drawing rudimentary conclusions from the analysis results.
