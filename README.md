@@ -35,4 +35,4 @@ The tools utilized in this project include:
 - Jupyter Notebook
 
 # Conclusion
-This project demonstrated proficiency in data preparation, statistical analysis, and visualization techniques using Python and relevant libraries. The analysis provided insights into the efficacy of Capomulin and other treatment regimens for SCC, contributing valuable information to Pymaceuticals' research and development efforts in anti-cancer medications.
+This project demonstrates my proficiency in data preparation, statistical analysis, and visualization techniques using Python and relevant libraries. The analysis provided valuable insights into the efficacy of Capomulin and other treatment regimens for squamous cell carcinoma (SCC), contributing valuable information to Pymaceuticals' research and development efforts in anti-cancer medications.
