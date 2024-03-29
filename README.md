@@ -1,4 +1,6 @@
-# Project Overview
+# Evaluating Capomulin: A Data Analysis Study on Cancer Treatment Efficacy
+
+## Project Overview
 This project involved several tasks related to evaluating the effectiveness of Capomulin, a drug of interest for Pymaceuticals, Inc., in treating squamous cell carcinoma (SCC). The analysis aimed to compare Capomulin's performance against other treatment regimens for SCC using data from a comprehensive animal study.
 
 # Project Structure
